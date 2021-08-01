@@ -1,3 +1,4 @@
+<img src="https://github.com/anuragdchowdhury/anuragdchowdhury/blob/dcad4baf08911a7c7e399f91208d11ea3a40e691/img/top.png">
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A JavaScript and Web Development Enthusiast.</h3>
 
