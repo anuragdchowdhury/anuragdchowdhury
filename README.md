@@ -41,7 +41,7 @@
 </p>
 
 </div>
-    <!-- My Skills section end -->
+<!-- My Skills section end -->
     
 <!-- Contacts section start -->
 <div class="section" id="contacts">
@@ -56,10 +56,11 @@
             <a href="https://fb.com/anyurag" target="blank">
                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anyurag" height="30" width="40" />
             </a>
-            <div style="padding: 20px;">📫 How to reach me **anuragdchowdhury.mail@gmail.com**</div>
-        </div>
-    </div>
-    <!-- Contacts section end -->
+
+<div style="padding: 20px;">📫 How to reach me **anuragdchowdhury.mail@gmail.com**</div>
+</div>
+</div>
+<!-- Contacts section end -->
     
 <div class="copyright">
         &copy; 2021 Anurag Dutta Chowdhury. All rights reserved.
