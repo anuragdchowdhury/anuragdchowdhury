@@ -11,7 +11,7 @@
     <!-- About Me section end -->
     
 <!-- My Skills section start -->
-<div class="section">
+<div>
         <h3 align="center">Languages</h3>
 <p align="center"> 
     <a href="https://angular.io" target="_blank"> 
