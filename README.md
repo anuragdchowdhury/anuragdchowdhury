@@ -121,7 +121,7 @@ hr {
 <div class="section">
         <h1><span>Area of Knowledge</span></h1>
         <h3 align="center">Languages</h3>
-<p align="left"> 
+<p align="center"> 
     <a href="https://angular.io" target="_blank"> 
         <img class="gap" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
