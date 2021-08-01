@@ -1,6 +1,4 @@
-<html>
-<style>
-    html {
+   html {
     margin: 0;
     padding: 0;
 }
@@ -104,11 +102,11 @@ hr {
 .gap {
     padding-right: 10px;
 }
-</style>
+
 <body>
 <img src="img/top.png">
     <!-- About Me section start -->
-    <div class="section">
+    <div style="background-color: #fff;padding: 15px;margin-bottom: 10px;border-radius: 10px;">
         <h1><span>About Me</span></h1>
         <h1 align="center">Hi 👋, I'm Anurag</h1>
         <h3 align="center">A JavaScript and Web Development Enthusiast.</h3>
