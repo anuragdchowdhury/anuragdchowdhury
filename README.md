@@ -106,7 +106,7 @@ hr {
 <body>
 <img src="img/top.png">
     <!-- About Me section start -->
-    <div style="background-color: #fff;padding: 15px;margin-bottom: 10px;border-radius: 10px;">
+    <div>
         <h1><span>About Me</span></h1>
         <h1 align="center">Hi 👋, I'm Anurag</h1>
         <h3 align="center">A JavaScript and Web Development Enthusiast.</h3>
@@ -117,11 +117,11 @@ hr {
     </div>
     <!-- About Me section end -->
     
-    <!-- My Skills section start -->
-    <div class="section">
+<!-- My Skills section start -->
+<div class="section">
         <h1><span>Area of Knowledge</span></h1>
         <h3 align="center">Languages</h3>
-<p align="center"> 
+<p align="left"> 
     <a href="https://angular.io" target="_blank"> 
         <img class="gap" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
