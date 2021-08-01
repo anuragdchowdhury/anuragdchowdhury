@@ -55,11 +55,12 @@
             <a href="https://fb.com/anyurag" target="blank">
                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anyurag" height="30" width="40" />
             </a>
-
-<div style="padding: 20px;">📫 How to reach me <strong>**anuragdchowdhury.mail@gmail.com**</strong></div>
+<br>
+<div><h6>📫 How to reach me <strong>**anuragdchowdhury.mail@gmail.com**</strong><h6></div>
 </div>
 </div>
 <!-- Contacts section end -->
+    <br>
     <br>
 <div align="center">
         &copy; 2021 Anurag Dutta Chowdhury. All rights reserved.
