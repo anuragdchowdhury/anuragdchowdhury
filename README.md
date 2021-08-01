@@ -12,7 +12,8 @@
     
 <!-- My Skills section start -->
 <div>
-        <h3 align="center">Languages</h3>
+<h2><span>Area of Knowledge:</span></h2>
+<h3 align="center">Languages</h3>
 <p align="center"> 
     <a href="https://angular.io" target="_blank"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -43,7 +44,7 @@
     
 <!-- Contacts section start -->
 <div class="section" id="contacts">
-        <h1><span>Connect with me:</span></h1>
+        <h2><span>Connect with me:</span></h2>
         <div align="center">
             <a href="https://twitter.com/arkeider" target="blank">
                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arkeider" height="30" width="40" />
