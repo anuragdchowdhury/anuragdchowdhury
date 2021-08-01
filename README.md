@@ -56,7 +56,7 @@
                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anyurag" height="30" width="40" />
             </a>
 <br>
-<div><h4>📫 How to reach me <strong>**anuragdchowdhury.mail@gmail.com**</strong><h4></div>
+<div><h3>📫 Reach me: <strong>**anuragdchowdhury.mail@gmail.com**</strong><h3></div>
 </div>
 </div>
 <!-- Contacts section end -->
