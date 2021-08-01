@@ -1,7 +1,6 @@
 <img src="img/top.png">
     <!-- About Me section start -->
     <div>
-        <h1><span>About Me</span></h1>
         <h1 align="center">Hi 👋, I'm Anurag</h1>
         <h3 align="center">A JavaScript and Web Development Enthusiast.</h3>
         <p>
@@ -13,7 +12,6 @@
     
 <!-- My Skills section start -->
 <div class="section">
-        <h1><span>Area of Knowledge</span></h1>
         <h3 align="center">Languages</h3>
 <p align="center"> 
     <a href="https://angular.io" target="_blank"> 
