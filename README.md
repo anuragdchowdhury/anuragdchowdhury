@@ -60,8 +60,8 @@
 </div>
 </div>
 <!-- Contacts section end -->
-    
-<div class="copyright">
+    <br>
+<div align="center">
         &copy; 2021 Anurag Dutta Chowdhury. All rights reserved.
     </div>
     <img src="img/bottom.png">
