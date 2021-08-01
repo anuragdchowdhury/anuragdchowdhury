@@ -44,7 +44,7 @@
 <!-- Contacts section start -->
 <div class="section" id="contacts">
         <h1><span>Connect with me:</span></h1>
-        <div>
+        <div align="center">
             <a href="https://twitter.com/arkeider" target="blank">
                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arkeider" height="30" width="40" />
             </a>
