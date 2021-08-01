@@ -4,7 +4,7 @@
         <h1 align="center">Hi 👋, I'm Anurag</h1>
         <h3 align="center">A JavaScript and Web Development Enthusiast.</h3>
         <p>
-            Coding has changed my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all at <strong>SoloLearn</strong> where they build your self-esteem and keep you motivated. Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
+            <b>Welcome,</b> to my GitHub Repository here I have uploaded several projects and code snippets which are <b>tricky</b> and <b>interesting</b> as well as very much fun to fiddle with. Kindly have a look around in my repository and also feel free to fork them. It has been a great journey from the time I have executed my first peice of code. Till date the joy of a sucessfully compiled program gives me the same kick the way it did back in my school days. I have been developing websites on <b>Full Stack</b> basis using serveral CMS framework such as Wordpress etc. I have also completed my courses on the languagues listed below and hold experience in development of using the same. Currently looking for working with a good Oragnisation that will recognise my work. 
         </p>
         <p class="quote">"Declare variables, not war"</p>
     </div>
