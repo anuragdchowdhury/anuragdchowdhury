@@ -1,3 +1,4 @@
+<html>
 <style>
     html {
     margin: 0;
@@ -58,12 +59,10 @@ p {
     text-align: right;
     margin-top: 10px;
 }
-
 li {
     margin-bottom: 15px;
     font-weight: bold;
 }
-
 iframe, audio {
     display: block;
     margin: 0 auto;
@@ -74,7 +73,6 @@ hr {
     height: 1px;
     background: #f36f48;
 }
-
 .face {
     transform: scale(0.4);
     margin: 0 auto;
@@ -107,6 +105,7 @@ hr {
     padding-right: 10px;
 }
 </style>
+<body>
 <img src="img/top.png">
     <!-- About Me section start -->
     <div class="section">
@@ -174,4 +173,6 @@ hr {
         &copy; 2021 Anurag Dutta Chowdhury. All rights reserved.
     </div>
     <img src="img/bottom.png">
+    </body>
+    </html>
 
