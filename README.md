@@ -63,7 +63,7 @@
     <br>
     <br>
 <div align="center">
-        &copy; 2021 Anurag Dutta Chowdhury. All rights reserved.
+        &copy; 2022 Anurag Dutta Chowdhury. All rights reserved.
     </div>
     <img src="img/bottom.png">
 
