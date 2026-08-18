@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Anurag Dutta Chowdhury — Lead DevOps Engineer</title>
+  <desc id="desc">Dark cloud-native profile banner with cyan and violet network graphics</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#17102d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff"/>
+      <stop offset="0.55" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#9b7cff"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#7dd3fc" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1010" cy="175" r="310" fill="url(#halo)"/>
+    <circle cx="90" cy="420" r="270" fill="#7c3aed" opacity=".08"/>
+
+    <g opacity=".55" stroke="url(#accent)" fill="none">
+      <path d="M770 70L878 116L990 65L1098 123L1034 224L906 260L804 202Z" stroke-width="2"/>
+      <path d="M878 116L906 260M990 65L1034 224M804 202L1034 224M770 70L990 65M878 116L1098 123" stroke-width="1" stroke-opacity=".55"/>
+      <circle cx="770" cy="70" r="6" fill="#00d4ff" filter="url(#glow)"/>
+      <circle cx="878" cy="116" r="7" fill="#5b8cff" filter="url(#glow)"/>
+      <circle cx="990" cy="65" r="6" fill="#9b7cff" filter="url(#glow)"/>
+      <circle cx="1098" cy="123" r="7" fill="#00d4ff" filter="url(#glow)"/>
+      <circle cx="1034" cy="224" r="6" fill="#9b7cff" filter="url(#glow)"/>
+      <circle cx="906" cy="260" r="7" fill="#00d4ff" filter="url(#glow)"/>
+      <circle cx="804" cy="202" r="6" fill="#5b8cff" filter="url(#glow)"/>
+    </g>
+
+    <g transform="translate(968 164)" opacity=".92">
+      <path d="M0-44L38-22V22L0 44L-38 22V-22Z" fill="#0b1930" stroke="url(#accent)" stroke-width="3"/>
+      <circle r="18" fill="none" stroke="#00d4ff" stroke-width="3"/>
+      <path d="M0-18V18M-16-9L16 9M-16 9L16-9" stroke="#9b7cff" stroke-width="2.5" stroke-linecap="round"/>
+      <circle r="5" fill="#e0f2fe"/>
+    </g>
+
+    <g transform="translate(80 64)">
+      <rect width="6" height="226" rx="3" fill="url(#accent)"/>
+      <text x="34" y="46" fill="#7dd3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">CLOUD · EDGE · AI INFRASTRUCTURE</text>
+      <text x="34" y="111" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="-1.4">ANURAG DUTTA</text>
+      <text x="34" y="161" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="-1.4">CHOWDHURY</text>
+      <text x="36" y="205" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500">Lead DevOps Engineer  ·  Platform Engineering</text>
+      <g transform="translate(35 231)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".6">
+        <rect width="112" height="32" rx="16" fill="#00d4ff" fill-opacity=".12" stroke="#00d4ff" stroke-opacity=".55"/>
+        <text x="56" y="21" text-anchor="middle" fill="#a5f3fc">KUBERNETES</text>
+        <rect x="124" width="76" height="32" rx="16" fill="#5b8cff" fill-opacity=".12" stroke="#5b8cff" stroke-opacity=".55"/>
+        <text x="162" y="21" text-anchor="middle" fill="#bfdbfe">IaC</text>
+        <rect x="212" width="94" height="32" rx="16" fill="#9b7cff" fill-opacity=".12" stroke="#9b7cff" stroke-opacity=".55"/>
+        <text x="259" y="21" text-anchor="middle" fill="#ddd6fe">PRIVATE 5G</text>
+        <rect x="318" width="138" height="32" rx="16" fill="#14b8a6" fill-opacity=".12" stroke="#14b8a6" stroke-opacity=".55"/>
+        <text x="387" y="21" text-anchor="middle" fill="#99f6e4">GPU PLATFORMS</text>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+  </g>
+</svg>
+
