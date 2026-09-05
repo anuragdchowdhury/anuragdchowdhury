@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Anurag Dutta Chowdhury — Lead DevOps Engineer and Platform Engineering leader" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Anurag Dutta Chowdhury — Senior DevOps Engineer and Platform Engineering leader" width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <h3 align="center">I turn complex infrastructure into reliable platforms that teams can ship on.</h3>
 
 <p align="center">
-  Lead DevOps & Platform Engineer working across cloud, edge, networking, Private 5G and AI/GPU infrastructure.<br/>
+  Senior DevOps & Platform Engineer working across cloud, edge, networking, Private 5G and AI/GPU infrastructure.<br/>
   I build the automation, guardrails and observability that make distributed systems easier to operate—and help engineers grow while doing it.
 </p>
 
@@ -73,30 +73,3 @@ Reliability              Prometheus · Grafana · ELK · Linux · Troubleshootin
 Networks & Telecom       Private 5G · SDN · Enterprise Networking
 AI Infrastructure       FastAPI · Containerized AI · GPU Orchestration · NVIDIA MIG
 Leadership               Team Leadership · Mentorship · Design Reviews · Delivery
-```
-
-## How I lead
-
-- Set technical direction while staying close to architecture, automation and production troubleshooting.
-- Create reusable standards and guardrails that help teams move faster without trading away reliability.
-- Mentor engineers through design reviews, real ownership and thoughtful technology choices.
-- Connect application, infrastructure and networking perspectives to solve cross-layer problems.
-
-## Career snapshot
-
-```mermaid
-flowchart LR
-    A["DevOps Engineer<br/>2021–2022"] --> B["Senior DevOps Engineer<br/>2022–2024"]
-    B --> C["Lead DevOps Engineer<br/>2024–Present"]
-    C --> D["Platforms · Teams · Scale"]
-```
-
-> 🏆 **Recognition:** Best Innovation in 5G
-
----
-
-<p align="center">
-  <b>Building dependable platforms for ambitious systems and the people behind them.</b><br/>
-  <sub>Open to conversations about platform engineering, Kubernetes, edge infrastructure, Private 5G and AI/GPU operations.</sub>
-</p>
-
