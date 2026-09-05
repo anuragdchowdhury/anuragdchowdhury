@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Anurag Dutta Chowdhury — Senior DevOps Engineer and Platform Engineering leader" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Anurag Dutta Chowdhury — Senior DevOps Engineer and Platform Engineering leader" width="100%" />
 </p>
 
 <p align="center">
